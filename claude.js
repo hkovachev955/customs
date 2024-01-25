@@ -10,7 +10,7 @@ const port = 3000;
 
 // Configuration
 const config = {
-    contractAddress: "0xB2b921501b6244cB6e62dbf171Cc81D17E74b6c5",
+    contractAddress: "0xbD12Bf72633d7d8ced12cDFf1332777F0912ca8A",
     web3ProviderUrl: "https://rpc2.sepolia.org",
     port: 3000,
 };
