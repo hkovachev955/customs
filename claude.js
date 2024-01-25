@@ -150,7 +150,7 @@ async function buildJson(npcTraits, tokenId) {
         const data = {
             'name': `NPC Custom #${tokenId}`,
             attributes,
-            'image': `http://localhost:${port}/Image?Id=${tokenId}`
+            'image': `https://customs.onrender.com/Image?Id=${tokenId}`
         };
 
         return data;
